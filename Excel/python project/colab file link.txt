@@ -1,6 +1,0 @@
-Hello Github Community i have created a frog leap game using python as a part of the prepinsta data analytics internship program:
-
-This is the colab file link for the frog leap game project:
-https://colab.research.google.com/drive/1gkPPb1SSufxAkgtm0gPwoB0AoNRH1Dsz?usp=sharing
-
-Thank you...
