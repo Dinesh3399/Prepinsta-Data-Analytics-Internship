@@ -1,0 +1,4 @@
+here is the colab file link of SQL murder mystery project.
+Go, check it out!!
+
+https://colab.research.google.com/drive/1icP7ZccF8QmKIgZRHdRWL4Qi12dGdRyW?usp=sharing
